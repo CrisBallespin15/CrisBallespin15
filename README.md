@@ -38,6 +38,14 @@ el mundo del desarrollo web profesional.
 - Construida con **HTML, CSS y JavaScript**
 - Interfaz limpia y moderna enfocada en la experiencia del usuario
 
+### 🧑‍💻 Portafolio Personal
+> Mi sitio web personal como desarrollador web.
+
+- Diseño oscuro con animaciones modernas
+- Traductor inglés/español integrado
+- Construido con **HTML, CSS y JavaScript**
+- 🌐 [Ver en vivo](https://crisballespin15.github.io/Portafolio-personal)
+
 ### 🔐 Login de usuario
 > Formulario de inicio de sesión con validaciones.
 
