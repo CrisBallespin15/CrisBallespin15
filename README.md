@@ -48,8 +48,7 @@ el mundo del desarrollo web profesional.
 
 ## 📈 Mi actividad en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrisBallespin15&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisBallespin15&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CrisBallespin15&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ---
 
